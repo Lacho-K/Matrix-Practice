@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.exe
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.deps.json
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.dll
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\bin\Debug\netcoreapp3.1\Multidimensional arr.pdb
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\obj\Debug\netcoreapp3.1\Multidimensional arr.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\obj\Debug\netcoreapp3.1\Multidimensional arr.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\obj\Debug\netcoreapp3.1\Multidimensional arr.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\obj\Debug\netcoreapp3.1\Multidimensional arr.dll
+C:\Users\i7 boy\source\repos\Multidimensional arr\Multidimensional arr\obj\Debug\netcoreapp3.1\Multidimensional arr.pdb
