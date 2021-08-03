@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.exe
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.deps.json
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.runtimeconfig.json
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.dll
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.pdb
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.AssemblyInfo.cs
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.dll
+C:\Users\kolev\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.pdb
