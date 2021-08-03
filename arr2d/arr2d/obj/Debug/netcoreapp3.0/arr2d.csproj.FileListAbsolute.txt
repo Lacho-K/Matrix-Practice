@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.exe
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.deps.json
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.runtimeconfig.json
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.dll
+C:\Users\kolev\source\repos\arr2d\arr2d\bin\Debug\netcoreapp3.0\arr2d.pdb
+C:\Users\kolev\source\repos\arr2d\arr2d\obj\Debug\netcoreapp3.0\arr2d.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\arr2d\arr2d\obj\Debug\netcoreapp3.0\arr2d.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\arr2d\arr2d\obj\Debug\netcoreapp3.0\arr2d.AssemblyInfo.cs
+C:\Users\kolev\source\repos\arr2d\arr2d\obj\Debug\netcoreapp3.0\arr2d.dll
+C:\Users\kolev\source\repos\arr2d\arr2d\obj\Debug\netcoreapp3.0\arr2d.pdb
