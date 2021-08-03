@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.exe
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.deps.json
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.runtimeconfig.json
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.dll
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\bin\Debug\netcoreapp3.1\more2dArr.pdb
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\obj\Debug\netcoreapp3.1\more2dArr.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\obj\Debug\netcoreapp3.1\more2dArr.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\obj\Debug\netcoreapp3.1\more2dArr.dll
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\obj\Debug\netcoreapp3.1\more2dArr.pdb
+C:\Users\i7 boy\source\repos\more2dArr\more2dArr\obj\Debug\netcoreapp3.1\more2dArr.csprojAssemblyReference.cache
