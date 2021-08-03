@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.exe
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.deps.json
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.runtimeconfig.json
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.dll
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\bin\Debug\netcoreapp3.0\matrixShuffling.pdb
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\obj\Debug\netcoreapp3.0\matrixShuffling.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\obj\Debug\netcoreapp3.0\matrixShuffling.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\obj\Debug\netcoreapp3.0\matrixShuffling.AssemblyInfo.cs
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\obj\Debug\netcoreapp3.0\matrixShuffling.dll
+C:\Users\kolev\source\repos\matrixShuffling\matrixShuffling\obj\Debug\netcoreapp3.0\matrixShuffling.pdb
